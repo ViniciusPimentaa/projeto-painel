@@ -49,6 +49,7 @@ Sistema simples de painel digital para exibição de senhas e mesas de atendimen
 ## Objetivo do Projeto
 
 Projeto desenvolvido para praticar manipulação de DOM, controle de estado com arrays e organização de estrutura front-end.
+E menciono o intuito de testar minha lógica de programação com JS, buscando entender os conceitos utilizados na área do desenvolvimento WEB.
 
 ---
 
