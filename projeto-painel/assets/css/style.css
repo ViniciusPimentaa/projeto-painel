@@ -1,0 +1,163 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  /* cursor: none; */
+}
+
+.painel {
+  width: 100%;
+  height: 100vh;
+  max-width: 1920px;
+  min-width: 1280px;
+  margin: 0 auto;
+  background-color: #0259ca;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.topo {
+  background-color: #bd0b0b;
+  padding: 0.5rem;
+  text-align: center;
+}
+
+.topo h1 {
+  color: #ffffff;
+  font-size: clamp(2.5rem, 3vw, 3.5rem);
+}
+
+.principal {
+  display: flex;
+  justify-content: center;
+  gap: 30rem;
+}
+
+
+.bloco {
+  text-align: center;
+  color: #ffffff;
+  margin-top: 8rem;
+  position: relative;
+}
+
+
+.label {
+  font-size: 6rem;
+  font-weight: bold;
+}
+
+.tipo {
+  position: absolute;
+  top: 8rem;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 2rem;
+  font-weight: bold;
+  color: #ffff00;
+}
+
+
+.valor_1 {
+  font-size: clamp(6rem, 12vw, 15rem);
+  font-weight: bold;
+  margin-top: 10rem;
+}
+
+
+.ultimas-background {
+  background-color: #ffffff;
+  border-top: 4px solid #ffffff;
+  margin-top: 6rem;
+}
+
+.p-ultimas {
+  display: inline-block;
+  background-color: #bd0b0b;
+  color: #ffffff;
+  width: 400px;
+  font-size: 1.6rem;
+  padding: 2.5rem;
+  text-align: right;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  margin-top: 6rem;
+}
+
+.bloco1,
+.bloco2,
+.bloco3,
+.bloco4 {
+  background-color: #00379c;
+  height: 142PX;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-top: 4px solid #ffffff;
+  border-right: 3px solid #ffffff;
+}
+
+.container > .bloco4:last-child {
+  border-right: none;
+}
+
+.linha {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  text-align: center;
+  color: #ffffff;
+}
+
+.alinhamento_mesa_senha {
+  font-size: 1.4rem;
+  opacity: 0.9;
+}
+
+.alinhamento_senha_mesa {
+  font-size: 3.2rem;
+  font-weight: bold;
+}
+
+.area-ultimas {
+  display: grid;
+  grid-template-columns: 400px 1fr;
+  align-items: start;
+  width: 100%;
+  margin-top: -1rem;
+}
+
+.msg_bem_vindo {
+  margin-top: auto; 
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #ffff00;
+  white-space: nowrap;
+  padding: 1rem 0;
+  animation: deslizar 13s linear infinite;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+@keyframes deslizar {
+  0% {
+    transform: translateX(100%);
+  }
+
+  100% {
+    transform: translateX(-100%);
+  }
+}
