@@ -55,7 +55,7 @@ E menciono o intuito de testar minha lógica de programação com JS, buscando e
 
 ## Apresentação Visual do Projeto
 
-[![Assista ao vídeo](assets/img/myproject.png)](assets/docs/painelpptprojeto.mp4)
+![Apresentação >>](assets/docs/projectpanel.gif.gif)
 
 OBS: Devido a tecnologia dos navegadores mais usados (chrome, mozila e edge) se faz necessário apenas um click na tela do painel, para que seja ativado o som da troca de senha.
 
