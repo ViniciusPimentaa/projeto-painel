@@ -53,6 +53,13 @@ E menciono o intuito de testar minha lógica de programação com JS, buscando e
 
 ---
 
+## Apresentação Visual do Projeto
+
+<video controls width="700">
+  <source src="assets/docs/painelpptprojeto.mp4" type="video/mp4">
+</video>
+
+
 ## Autor
 
 Desenvolvido por VINICIUS PIMENTA.
