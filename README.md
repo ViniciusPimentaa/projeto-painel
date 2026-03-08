@@ -1,6 +1,7 @@
 # Painel de Atendimento Digital
 
 Sistema simples de painel digital para exibição de senhas e mesas de atendimento, com histórico das últimas chamadas.
+É uma protótipo de um painel de atendimento usado nos posto do PoupaTempo em SP.
 
 ---
 
