@@ -55,10 +55,13 @@ E menciono o intuito de testar minha lógica de programação com JS, buscando e
 
 ## Apresentação Visual do Projeto
 
-![Apresentação >>](assets/docs/projectpanel.gif.gif)
+[![Assista ao vídeo](assets/img/myproject.png)](assets/docs/painelpptprojeto.mp4)
 
 OBS: Devido a tecnologia dos navegadores mais usados (chrome, mozila e edge) se faz necessário apenas um click na tela do painel, para que seja ativado o som da troca de senha.
 
+## Considerações
+
+Este projeto foi desenvolvido utilizando apenas HTML, CSS e JavaScript puro (Vanilla JS). A decisão de não utilizar frameworks ou bibliotecas foi intencional, com o objetivo de aprofundar o entendimento dos fundamentos da web, como manipulação do DOM, organização de estrutura e lógica de funcionamento do JavaScript. Compreender bem essas bases é essencial, pois elas servem como alicerce para o uso eficiente de frameworks modernos e para a construção de aplicações web mais complexas no futuro.
 
 ## Autor
 
