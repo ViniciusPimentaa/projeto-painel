@@ -63,4 +63,3 @@ E menciono o intuito de testar minha lógica de programação com JS, buscando e
 ## Autor
 
 Desenvolvido por VINICIUS PIMENTA.
-
