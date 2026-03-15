@@ -53,11 +53,7 @@ Projeto desenvolvido para praticar manipulação de DOM, controle de estado com 
 E menciono o intuito de testar minha lógica de programação com JS, buscando entender os conceitos utilizados na área do desenvolvimento WEB.
 
 ---
-
-## Apresentação Visual do Projeto
-
-[![Assista ao vídeo](assets/docs/projectpanel.gif)]
-
+### OBS
 OBS: Devido a tecnologia dos navegadores mais usados (chrome, mozila e edge) se faz necessário apenas um click na tela do painel, para que seja ativado o som da troca de senha.
 
 ## Considerações
